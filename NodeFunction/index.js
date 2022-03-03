@@ -12,9 +12,9 @@ function checkString(str){
 }
 
 console.log(checkNumber(10));
+console.log('>>>>>>>>>>>>')
 console.log(checkString('hello'));
 
 console.timeEnd('dd')
 console.dir()
-console.trace()
 console.table([{ name : '제로', birth: 1994}, {name: 'hero', birth: 1998}])
